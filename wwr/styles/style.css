@@ -54,6 +54,72 @@ nav a:hover,
 footer p {
     font-size: 1.2em;
 }
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
+body {
+    font-family: 'shadow into light', Arial, Helvetica, sans-serif
+}
+
+.home-title {
+    font-family: 'Shadow into light', Arial, sans-serif;
+    font-size: 2em;
+}
+
+.home-title {
+    font-size: 2em;
+}
+
+.book,
+.join {
+    font-size: 18px;
+}
+
+.msg p {
+    font-size: 0.8em;
+}
+
+.msg {
+    line-height: 1.5em;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+nav a {
+    padding: 35px;
+}
+
+.book,
+.join {
+    margin-top: 50px;
+}
+
+footer {
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+
+.book,
+.join {
+    border-radius: 5px;
+}
+
+.card-img {
+    border: 10px solid #344E41;
+}
+
+main section img {
+    box-sizing: border-box;
+}
 
 
