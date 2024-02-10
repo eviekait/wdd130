@@ -1,0 +1,10 @@
+.image {
+	background-image: url(images/w05_circles.jpg);
+	height: 500px;
+    width: 250
+}
+.header {
+    padding-top: 50px;
+	color: gray;
+	font-size: 20px;
+	text-align: right;}
