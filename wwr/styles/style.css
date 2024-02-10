@@ -16,7 +16,12 @@ body {
 }
 
 header {
-    background-color: #DAD7CD (20,30,13, .7);
+    background-color: #344E41 (20,30,13, .7);
+    background-image: url(logo2_200.png);
+
+}
+.background-image {
+    width: 8px;
 }
 
 nav a,
@@ -83,8 +88,8 @@ body {
 }
 
 body {
-    background-color: #344E41;
-    font-family: Raleway, Arial, sans-serif;
+    background-color: #ebfff5;
+    font-family: 'shadows in the Light', Arial, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -115,8 +120,8 @@ footer {
 
 .book,
 .join {
-    background-color: #d9c2a3;
-    color: rgb(0, 51, 0);
+    background-color: #f4b562;
+    color: rgb(235, 251, 235);
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
